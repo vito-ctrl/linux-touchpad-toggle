@@ -1,6 +1,3 @@
-to  
-
-
 # Touchpad Toggle
 
 A tiny Bash script that toggles the laptop touchpad on GNOME Wayland.
